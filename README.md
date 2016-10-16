@@ -1,1 +1,4 @@
-# skackbot_sample
+# slackbot_sample
+
+SlackのBotサンプルプログラムです。
+
